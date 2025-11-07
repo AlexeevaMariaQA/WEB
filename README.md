@@ -1,4 +1,7 @@
 # Тестирование веб-приложений
+
+Я тестировала веб-приложение Интернет-магазин https://demoshopping.ru/ и создавала тестовую документацию.
+
 [Tест-план для приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/1rdWgNO1su2iXm1s_XOFzSl4kWKyUZDyRhjTTGlCxcbU/edit?gid=0#gid=0)
 
 [Чек-лист для Корзины и Оплаты](https://docs.google.com/spreadsheets/d/1LOarT4aEw9wiuSmOXgYIXIVSnXfLRODcb79oN7x2uDI/edit?gid=0#gid=0)
